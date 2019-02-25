@@ -1,0 +1,46 @@
+/* .card {
+    padding: 5px;
+}
+.card img {
+    width: 200px;
+    height: 250px;
+    margin-left: 5px;
+    align-content: center
+} */
+#main {
+    display: -webkit-flex;
+    display: flex;
+}
+.productItem {
+    margin: 0.3rem;
+    padding: 0.5rem;
+}
+.customProductItem {
+    margin: 8px
+}
+.productItem2 {
+    margin-top: 100px;
+}
+.productPrice{
+    color: brown
+}
+.jumbotron {
+    text-align: center;
+    background-color: gray;
+    color: aliceblue;
+    margin-top: 5px
+}
+.desc {
+    font-size: 12px
+}
+.productImage {
+    width: 200px;
+    height: 200px
+}
+.bestDealProductImage {
+    width: 320px;
+    height: 380px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    margin-top: 15px
+}
