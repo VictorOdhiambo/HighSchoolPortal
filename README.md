@@ -1,12 +1,16 @@
 # HighSchoolPortal
-This is a web application build entirely with reactjs, expressjs, jquery and mongodb
+Create a folder in your computer
+Clone or download the files
+Copy and paste the files to the newly created folder above
+cd into that folder and do npm install
+cd again into client folder and do npm install
 
-#Create React app using create-react-app command
+After all the dependencies have been installed, start your mongodb server on a seperate terminal
+Create a database called highschooldb in your mongodb
 
-#cd into the project and do npm install to install all the dependencies
+Now, do npm run dev.. this should start both the server and the client..
 
-#Start the server using the command node server.js
+Happy coding!!
 
-#Ensure that the MongoDB is installed and its server is already running
 
 Thanks.
